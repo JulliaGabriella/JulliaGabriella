@@ -40,3 +40,7 @@ Sempre aprendendo e evoluindo no mundo da tecnologia
 ---
 
 <p align="center">Transformando ideias em código e construindo o futuro com tecnologia</p>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aniziavictoria/aniziavictoria/output/github-contribution-grid-snake.svg" />
+</div>
