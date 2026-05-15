@@ -22,6 +22,7 @@ Sempre aprendendo e evoluindo no mundo da tecnologia
   <a href="mailto:juliagabrielatravassos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/j%C3%BAlia-travassos-3447573a7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -33,8 +34,12 @@ Sempre aprendendo e evoluindo no mundo da tecnologia
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 </p>
 
 ---
