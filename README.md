@@ -42,6 +42,24 @@ Sempre aprendendo e evoluindo no mundo da tecnologia
 
   <img src="https://img.shields.io/badge/Node.js-60A5FA?style=for-the-badge&logo=node.js&logoColor=white"/>
 
+  <img src="https://img.shields.io/badge/Git-3B82F6?style=for-the-badge&logo=git&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+---
+
+## Estudando no momento 📚
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 ---
@@ -50,6 +68,7 @@ Sempre aprendendo e evoluindo no mundo da tecnologia
 💙 Transformando ideias em código e construindo o futuro com tecnologia
 </p>
 
+<div align="center">
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/aniziavictoria/aniziavictoria/output/github-contribution-grid-snake.svg" />
